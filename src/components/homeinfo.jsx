@@ -12,9 +12,11 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Aviraj Bhaliya</span>
         👋
         <br />
-        A Web developer 💻
+        A Web Developer 💻
         <br />
         let's explore my portfolio by moving your cursor right➡️
+      <br/>
+      Please turn on the sound by clicking 🔊
       </h1>
     );
 
