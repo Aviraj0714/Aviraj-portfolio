@@ -2,6 +2,7 @@
   "homepage": "https://Aviraj0714.github.io/threejs-portfolio",
   "name": "3d-portfolio",
   "private": true,
+  "main":"../src/main.jsx",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
