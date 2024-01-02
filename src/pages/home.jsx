@@ -9,7 +9,7 @@ import { Bird, Island, Plane, Sky } from "../models";
 
 const Home = () => {
   const audioRef = useRef(new Audio(sakura));
-  audioRef.current.volume = 0.4;
+  audioRef.current.volume = 1.0;
   audioRef.current.loop = true;
 
   const [currentStage, setCurrentStage] = useState(1);

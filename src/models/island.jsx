@@ -71,7 +71,7 @@ export function Island({
       if (!isRotating) setIsRotating(true);
 
       islandRef.current.rotation.y += 0.005 * Math.PI;
-      rotationSpeed.current = 0.007;
+      rotationSpeed.current = 0.010;
     } else if (event.key === "ArrowRight") {
       if (!isRotating) setIsRotating(true);
 
